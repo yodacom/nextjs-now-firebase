@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "fieldbenders-staging",
+    "production": "fieldbenders"
+  }
+}
